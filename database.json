@@ -1,0 +1,14 @@
+{
+"games": [
+  {
+    "name": "Fallout 4",
+    "cost": 69.99,
+    "rating": 4.2
+  },
+  {
+    "name": "Overwatch",
+    "cost": 49.99,
+    "rating": 4.5
+  }
+]
+}
